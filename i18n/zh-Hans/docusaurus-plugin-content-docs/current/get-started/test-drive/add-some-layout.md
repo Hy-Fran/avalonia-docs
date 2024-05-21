@@ -39,12 +39,12 @@ text block控件使您可以完全控制其包含的文本的样式。
       <TextBlock Margin="5"
          FontSize="24" 
          HorizontalAlignment="Center"
-         Text="温度转换器">
+         Text="Temperature Converter">
       </TextBlock>
     </Border>
     <StackPanel>
     </StackPanel>    
-    <Button HorizontalAlignment="Center">计算</Button>
+    <Button HorizontalAlignment="Center">Calculate</Button>
   </StackPanel>
 ```
 
