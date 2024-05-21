@@ -16,7 +16,7 @@ import InputControlsScreenshot from '/img/get-started/test-drive/input-controls.
 要使用网格控件创建布局，请按照以下步骤进行操作：
 
 - 如果应用正在运行，请停止应用。
-- 找到XAML中的中间堆栈面板，并删除该标签。
+- 找到XAML中的中间堆栈面板控件(Stack Panel)，并删除该标签。
 - 插入一个`<Grid>`标签，如下所示：
 
 ```xml
