@@ -9,7 +9,7 @@ import InputControlsScreenshot from '/img/get-started/test-drive/input-controls.
 
 为了实现这个布局，您将使用内置的网格控件，并将标签和输入控件放置在其单元格中。
 
-这张图片展示了结果布局（运行中）并显示了网格线。网格线是为了可视化布局而显示的 - 在生产界面上通常不会这样做。
+这张图片展示了生成的布局（运行中）并显示了网格线。网格线是为了可视化布局而显示的 - 在最终的成品界面上通常不会这样做。
 
 <img className="center" src={InputControlsScreenshot} alt="Window showing input controls" />
 
