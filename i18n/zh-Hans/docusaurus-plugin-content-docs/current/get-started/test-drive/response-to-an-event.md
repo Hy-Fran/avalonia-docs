@@ -13,7 +13,7 @@ import EventDebugOutputScreenshot from '/img/get-started/test-drive/event-debug-
 
 ## Code-behind
 
-主窗口的XAML文件与一个关联的C#代码后台文件。如果您使用的是一个IDE，您可以在**Solution Explorer**中找到这个文件 - 它是`.axaml`文件的子项。
+主窗口的XAML文件有一个其关联的C#代码后台文件。如果您使用的是一个IDE，您可以在**Solution Explorer**中找到这个文件 - 它是`.axaml`文件的子项。
 
 <img className="center" src={SolutionCodeBehindScreenshot} alt="" />
 
